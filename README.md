@@ -3,7 +3,7 @@
 Flutter difficulty scale application from Abdallah Mansour challenge have fun with code.
 
 ## Screen Shots
-##1
+## 1
 <p><a target="_blank">
 <img src="https://github.com/AVElfallah/challenge_difficulty_scale_mansour/blob/master/screenshot/1.jpg" alt="Screenshot" style="max-width: 50%;">
 </a></p>
